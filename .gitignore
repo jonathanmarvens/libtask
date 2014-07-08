@@ -5,3 +5,6 @@
 *.sw*
 *.test
 *~
+/primes
+/tcpproxy
+/testdelay
